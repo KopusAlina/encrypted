@@ -1,8 +1,6 @@
 import javax.crypto.SecretKey;
-import java.sql.Time;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Crypt {

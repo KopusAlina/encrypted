@@ -1,7 +1,6 @@
 import javax.crypto.Cipher; //для шифрования и дешифрования данных
 import javax.crypto.KeyGenerator; //для создания нового ключа AES
 import javax.crypto.SecretKey; //представляет собой секретный ключ для алгоритма шифрования
-import java.security.Key;
 import java.util.Base64; //для кодирования и декодирования данных в формат Base64, удобный для представления бинарных данных в текстовом формате
 
 public class AESCipher { // транскрипция AES - Advanced Encryption Standard
